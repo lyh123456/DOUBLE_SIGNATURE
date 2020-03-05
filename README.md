@@ -8,3 +8,8 @@ java模块生成的密钥无法拆分
 # SIGNATURE codes
 Generation 
 Verification
+# ABOUT CODES
+model package 自编模块实现相关算法
+modules package java模块本项目不用
+test 流程模拟测试
+code_test 相关算法测试
